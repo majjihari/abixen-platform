@@ -25,3 +25,5 @@
 
 # Angular Template Cache
 *.templatecache.js
+config.bat
+node_modules
